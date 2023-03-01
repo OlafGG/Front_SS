@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+    /*background-image: url("/img/vukan.jpg");*/
+}
+
+
+
+
+.form-login{
+    width: 750px;
+    height: 700px;
+    padding-top: 35%;
+    background-color: salmon;
+    margin: auto;
+    margin-top: 150px;
+    box-shadow: 7px 13px 37px #000;
+}
+
+.form-div-login{
+    width: 400px;
+    height: 360px;
+    padding-top: 5px;
+    background-color: #FFFFFF;
+    margin: auto;
+    box-shadow: 7px 13px 37px #000;
+}
+
+.Titulo{
+    text-align: center;
+
+}
+.case-titulo{
+    width: 90%;
+    height: 100px;
+    background-color: #ffffff;
+    margin: 5%;
+    margin-top: 10px;
+}
+
+.control{
+    margin-left: 5%;
+    padding-left: 30px;
+    align-items: center;
+    width: 90%;
+    border-radius: 10px;
+    height: 40px;
+    margin-bottom: 5px;
+    border-color:  #c4cbb7;
+    background-color: #c4cbb7;
+}
+
+.buttons{
+    margin-top: 25px;
+    margin-left: 35%;
+    width: 120px;
+    height: 40px;
+    border-radius: 15px;
+    background-color: #092b5a;
+    color: #FFFFFF;
+}
+
+.cbox1{
+    margin-top: 25px;
+    margin-left: 28%;
+    width: 66px;
+    height: 12px;
+    color: black;
+}
+
+img{
+    width: 80px;
+    margin-left: 37%;
+}
+
