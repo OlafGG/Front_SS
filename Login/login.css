@@ -16,6 +16,7 @@
     margin: auto;
     margin-top: 150px;
     box-shadow: 7px 13px 37px #000;
+    background-image: url("/img/vukan.jpg");
 }
 
 .form-div-login{
