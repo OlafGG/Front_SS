@@ -3,12 +3,17 @@
     padding: 0;
     box-sizing: border-box; 
     /*background-image: url("/img/vukan.jpg");*/
+    font-family: "Trebuchet MS", Verdana, sans-serif;
 }
 
 
 
 
 .form-login{
+    max-width: 750px;
+    min-width: none;
+    max-height: fit-content;
+    min-height: fit-content;
     width: 750px;
     height: 700px;
     padding-top: 150px;
@@ -16,12 +21,16 @@
     margin: auto;
     margin-top: 150px;
     box-shadow: 7px 13px 37px #000;
-    background-image: url("/img/vukan.jpg");
+    /*background-image: url("/img/vukan.jpg");*/
 }
 
 .form-div-login{
     width: 400px;
     height: 360px;
+    max-width: 400px;
+    min-width: none;
+    max-height: fit-content;
+    min-height: fit-content;
     padding-top: 5px;
     background-color: #FFFFFF;
     margin: auto;
@@ -49,7 +58,11 @@
     height: 40px;
     margin-bottom: 5px;
     border-color:  #c4cbb7;
-    background-color: #c4cbb7;
+    background-color: rgb(196, 203, 183);
+}
+
+.control-selected{
+    background-color: rgb(145, 152, 132);
 }
 
 .buttons{
@@ -67,7 +80,11 @@
     margin-left: 28%;
     width: 66px;
     height: 12px;
-    color: black;
+}
+
+#check-names-disable{
+    font-size: 14px;
+    color: rgb(14 ,14, 14, 0.5);
 }
 
 img{
@@ -75,3 +92,5 @@ img{
     margin-left: 37%;
 }
 
+
+ 
